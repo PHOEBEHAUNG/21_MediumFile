@@ -1,0 +1,14 @@
+種類,C++,Java
+布林,bool,boolean
+字元,char,char
+,unsigned char,*
+整數,*,byte
+	,short,short
+	,unsigned short,*
+	,int,int
+	,unsigned int,*
+	,long,long
+	,unsigned long,*
+實數,float,float
+	,double,bouble
+	,long double,*
